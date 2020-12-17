@@ -1,0 +1,12 @@
+name: CustomRTP
+main: molnik.main.CustomRTP
+version: 1.0.0
+author: Ktilis
+commands:
+  rtp:
+    description: Random teleport
+    usage: /rtp
+    aliases: randomtp
+  customrtp_reload:
+    description: Plugin reload configuration
+    usage: /customrtp_reload
